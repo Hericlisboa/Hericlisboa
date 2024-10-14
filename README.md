@@ -1,7 +1,7 @@
 ### Hi everyone, welcome to my profile! 👋
 -👩‍💻 My name is Heric, I'm systems analysis and development student
 
-<div align="center"> 💫 My GitHub Stats 💫</div>
+<div align="center"> ⭐️ My GitHub Stats ⭐️</div>
 <br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hericlisboa&show_icons=true&theme=tokyonight"/>
