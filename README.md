@@ -9,7 +9,7 @@
   <br>
   
   <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterDrakar&layout=compact&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hericlisboa&layout=compact&theme=tokyonight"/>
 </div>
 
 
